@@ -8,3 +8,28 @@
 <p>I have created a demo at <a href="https://codepen.io/ludviglindblom/pen/gbwbdaR">https://codepen.io/ludviglindblom/pen/gbwbdaR</a>.</p>
 <p>You can also check out the <a href="https://drafts.csswg.org/css-borders-4/#border-shape">specification</a>.</p>
 <p><i>Note that this feature is still experimental and currently only available in Chrome 146+ (Canary and Beta builds) with the experimental web platform features flag turned on.</i></p>
+
+<style>
+	:global(body) {
+		box-sizing: border-box;
+		width: 100%;
+		max-width: 60rem;
+		margin: 0 auto;
+		padding: 1rem;
+		font-family:
+			system-ui,
+			-apple-system,
+			BlinkMacSystemFont,
+			'Segoe UI',
+			Roboto,
+			Oxygen,
+			Ubuntu,
+			Cantarell,
+			'Open Sans',
+			'Helvetica Neue',
+			sans-serif;
+	}
+	p {
+		line-height: 1.3;
+	}
+</style>
