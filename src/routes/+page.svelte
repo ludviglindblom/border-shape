@@ -5,4 +5,6 @@
 <h1>border-shape</h1>
 <p>border-shape is a powerful upcoming CSS primitive that defines a custom shape for an element's border.</p>
 <p>Una Kravets has written and excellent post about it at <a href="https://una.im/border-shape">https://una.im/border-shape</a>.</p>
+<p>I have created a demo at <a href="https://codepen.io/ludviglindblom/pen/gbwbdaR">https://codepen.io/ludviglindblom/pen/gbwbdaR</a>.</p>
 <p>You can also check out the <a href="https://drafts.csswg.org/css-borders-4/#border-shape">specification</a>.</p>
+<p><i>Note that this feature is still experimental and currently only available in Chrome 146+ (Canary and Beta builds) with the experimental web platform features flag turned on.</i></p>
