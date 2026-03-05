@@ -1,6 +1,6 @@
 <svelte:head>
 	<title>CSS border-shape</title>
-	<description>border-shape is a powerful upcoming CSS primitive that defines a custom shape for an element's border.</description>
+	<meta name="description" content="border-shape is a powerful upcoming CSS primitive that defines a custom shape for an element's border" />
 	<meta property="og:url" content="https://border-shape.com/" />
 	<meta property="og:type" content="website" />
 	<meta name="og:title" content="CSS border-shape" />
